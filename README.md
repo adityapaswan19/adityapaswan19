@@ -7,11 +7,11 @@
 
 <a href="https://github.com/adityapaswan19"><img src="https://img.shields.io/badge/GitHub-adityapaswan19-238636?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 
-*Building Practical Projects while learning Web Development, Backend Technologies, DSA & applied AI.*
+*Building Practical Projects while learning Web Development, Backend Technologies, DSA & Applied AI.* ヅ
 
 </div>
 
-## Technology Stack & Creative Tools.
+## | Technology Stack & Creative Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ logo" />
@@ -27,11 +27,12 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git logo" />
 </p>
 
-## Connect With Me.
+## | Connect With Me
 
 <!-- Replace the placeholder URLs below with your links, and remove any badges you don't want to use. -->
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-paswan-031ab5367/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+   <a href="mailto:adityapas2311@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.instagram.com/adityyawhy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:adityapas2311@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+ 
 </p>
