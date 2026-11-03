@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.gif" width="50%" alt="Aditya Paswan banner" />
+<img src="./assets/banner.gif" width="75%" alt="Aditya Paswan banner" />
 
 
 ### Turning “what if?” into “it works”
