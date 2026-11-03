@@ -47,16 +47,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git logo" />
 </p>
 
-## GitHub at a glance
-
-<div align="center">
-
-<a href="https://github.com/adityapaswan19"><img src="https://img.shields.io/github/followers/adityapaswan19?style=for-the-badge&logo=github&logoColor=white&label=followers" alt="GitHub followers" /></a>
-<br />
-<a href="https://github.com/adityapaswan19?tab=repositories">Explore my repositories and activity →</a>
-
-</div>
-
 ## Connect with me
 
 <!-- Replace the placeholder URLs below with your links, and remove any badges you don't want to use. -->
