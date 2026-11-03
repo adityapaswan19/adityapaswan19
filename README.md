@@ -7,7 +7,7 @@
 
 <a href="https://github.com/adityapaswan19"><img src="https://img.shields.io/badge/GitHub-adityapaswan19-238636?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 
-*Building practical projects while learning web development, backend technologies, and applied AI.*
+*Building Practical Projects while learning Web Development, Backend Technologies, DSA & applied AI.*
 
 </div>
 
@@ -35,9 +35,3 @@
   <a href="https://www.instagram.com/adityyawhy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:adityapas2311@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-<div align="center">
-
-*Thanks for stopping by. I’m always learning and building something new.*
-
-</div>
