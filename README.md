@@ -31,7 +31,7 @@
 
 <!-- Replace the placeholder URLs below with your links, and remove any badges you don't want to use. -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-paswan-031ab5367/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-   <a href="mailto:adityapas2311@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.instagram.com/adityyawhy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/aditya-paswan-031ab5367/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+   <a href="mailto:adityapas2311@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=D44638" alt="Email" /></a>
+  <a href="https://www.instagram.com/adityyawhy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=C13584" alt="Instagram" /></a>
  </p>
