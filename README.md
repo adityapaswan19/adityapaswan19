@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="./ChatGPT%20Image%203%20Nov%202026%2C%2020_02_40.png" width="100%" alt="Spiderweb banner with the Aditya Paswan name" />
+<img src="./assets/banner.gif" width="100%" alt="Aditya Paswan banner" />
+
 
 ### Turning “what if?” into “it works”
 
