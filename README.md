@@ -3,7 +3,7 @@
 <img src="./assets/banner.gif" width="75%" alt="Aditya Paswan banner" />
 
 
-### Turning “what if?” into “it works”
+### 𝓣𝓾𝓻𝓷𝓲𝓷𝓰 “𝔀𝓱𝓪𝓽 𝓲𝓯 ?” 𝓲𝓷𝓽𝓸 “𝓲𝓽 𝔀𝓸𝓻𝓴𝓼.”
 
 <a href="https://github.com/adityapaswan19"><img src="https://img.shields.io/badge/GitHub-adityapaswan19-238636?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 
