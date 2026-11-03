@@ -11,7 +11,7 @@
 
 </div>
 
-## Tech stack & creative tools
+## Technology Stack & Creative Tools.
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ logo" />
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git logo" />
 </p>
 
-## Connect with me
+## Connect With Me.
 
 <!-- Replace the placeholder URLs below with your links, and remove any badges you don't want to use. -->
 <p align="center">
@@ -38,6 +38,6 @@
 
 <div align="center">
 
-*Thanks for stopping by — I’m always learning and building something new.*
+*Thanks for stopping by. I’m always learning and building something new.*
 
 </div>
