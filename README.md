@@ -10,27 +10,6 @@
 
 </div>
 
-## Featured projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/adityapaswan19/Prototype-of-LableLens">LableLens</a></h3>
-      <p>A team prototype for the SIH 2026 internal round, focused on packaged-commodity legal metrology compliance.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/adityapaswan19/NoteForge">NoteForge</a></h3>
-      <p>An AI academic companion that turns learning materials into structured study resources.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/adityapaswan19/RouteAudit">RouteAudit</a></h3>
-      <p><i>More builds and repository links coming soon.</i></p>
-    </td>
-  </tr>
-</table>
-
 ## Tech stack & creative tools
 
 <p align="center">
