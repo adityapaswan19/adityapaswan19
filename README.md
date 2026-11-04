@@ -32,9 +32,25 @@
 
 ## Connect With Me
 
-<!-- Replace the placeholder URLs below with your links, and remove any badges you don't want to use. -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/aditya-paswan-031ab5367/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-   <a href="mailto:adityapas2311@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.instagram.com/adityyawhy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
- </p>
+<div align="center">
+  
+<a href="<a href="https://www.linkedin.com/in/ofrank-design/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+
+<a href="mailto:adityapas2311@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="frankoduro1912@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://x.com/AdityyaPaswan" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="odee_frank" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/adityyawhy/" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="_anonymoustroy" style="margin-bottom: 5px;" />
+</a>
+
+<div align="center">
+
